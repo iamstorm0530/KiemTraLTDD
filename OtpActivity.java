@@ -1,3 +1,5 @@
+//DangNgocThaoQuyen-23162082
+
 package com.example.midtest;
 
 import android.content.Intent;
@@ -140,3 +142,4 @@ public class OtpActivity extends AppCompatActivity {
         if (timer != null) timer.cancel();
     }
 }
+
