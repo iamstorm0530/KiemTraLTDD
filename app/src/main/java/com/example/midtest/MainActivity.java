@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
         AnhXa();
         GetCategory();
-        GetProduct();
+        //GetProduct();
     }
 
     private void AnhXa(){
@@ -71,36 +71,5 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    // ====================== PRODUCT =======================
-    private void GetProduct(){
-        apiMain = RetroClientMain.getClient().create(APIMain.class);
 
-        apiMain.getAllProducts().enqueue(new Callback<List<Product>>() {
-            @Override
-            public void onResponse(Call<List<Product>> call, Response<List<Product>> response) {
-                if (response.isSuccessful()) {
-
-                    productList = response.body();
-
-                    productAdapter = new ProductAdapter(MainActivity.this, productList);
-
-                    rcProduct.setHasFixedSize(true);
-                    rcProduct.setLayoutManager(
-                            new LinearLayoutManager(MainActivity.this,
-                                    LinearLayoutManager.HORIZONTAL, false)
-                    );
-
-                    rcProduct.setAdapter(productAdapter);
-                } else {
-                    Toast.makeText(MainActivity.this, "Error loading products!", Toast.LENGTH_SHORT).show();
-                }
-            }
-
-            @Override
-            public void onFailure(Call<List<Product>> call, Throwable t) {
-                Log.d("PRODUCT_ERR", t.getMessage());
-                Toast.makeText(MainActivity.this, "Failed to fetch products", Toast.LENGTH_SHORT).show();
-            }
-        });
-    }
 }
