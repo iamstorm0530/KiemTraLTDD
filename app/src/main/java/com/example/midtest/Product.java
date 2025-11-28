@@ -1,10 +1,14 @@
 package com.example.midtest;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Product {
     private String id;
     private String name;
     private int price;
     private String image;
+
+    @SerializedName("categoryId")
     private String categoryID;
 
     public Product(String id, String name, int price, String image, String categoryID) {

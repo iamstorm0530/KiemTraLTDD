@@ -39,7 +39,7 @@ public class ProductActivity extends AppCompatActivity {
 
         anhXa();
 
-        String categoryId = getIntent().getStringExtra("categoryId");
+        String categoryId = getIntent().getStringExtra("CATEGORY_ID");
         getProduct(categoryId);
 
         btnSortPrice.setOnClickListener(new View.OnClickListener() {
@@ -70,7 +70,7 @@ public class ProductActivity extends AppCompatActivity {
     }
 
     private void getProduct(String categoryId) {
-        apiService = RetroClient.getClient().create(APIMain.class);
+        apiService = RetroClientProduct.getClient().create(APIMain.class);
 
         Call<List<Product>> call;
         if (categoryId != null && !categoryId.isEmpty()) {
