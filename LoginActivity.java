@@ -1,3 +1,6 @@
+//DangNgocThaoQuyen-23162082
+
+
 package com.example.midtest;
 
 import android.content.Intent;
@@ -100,3 +103,4 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 }
+
