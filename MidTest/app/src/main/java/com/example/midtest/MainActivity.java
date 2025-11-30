@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadUserInfo() {
         SharedPreferences prefs = getSharedPreferences("USER_FILE", MODE_PRIVATE);
-        String name = prefs.getString("USERNAME", "User");
+        String name = prefs.getString("NAME", "User");
         tvUserName.setText(name);
     }
 
