@@ -2,23 +2,35 @@
 
 ## Project Description
 
-## Bảng phân công nhiệm vụ
+### Bảng phân công nhiệm vụ
 ![Task Table](https://github.com/user-attachments/assets/31a1ee31-4ae8-4afa-8c9c-1ff49a013f4f)
 
 ---
 
-## Backend Repository → **[KiemTraLTDD](https://github.com/iamstorm0530/KiemTraLTDD)**
+### Backend Repository → **[KiemTraLTDD](https://github.com/iamstorm0530/KiemTraLTDD)**
 
 ---
 
-## API Demo
-- Login/Register → **[User API](https://69293c119d311ccdf348a65b.mockapi.io/user)**
-- Product → **[Product API](https://69293c119d311ccdf348a65b.mockapi.io/product)**
-- Categories → **[Categories API](http://app.iotstar.vn:8081/appfoods/categories.php)**
+### API Demo
+Login/Register: **[User API](https://69293c119d311ccdf348a65b.mockapi.io/user)**
+Product: **[Product API](https://69293c119d311ccdf348a65b.mockapi.io/product)**
+Categories: **[Categories API](http://app.iotstar.vn:8081/appfoods/categories.php)**
 
 ---
+![Intro](https://github.com/user-attachments/assets/d789f655-3151-450a-828b-5b20d315f799)
 
-## Appreciation  
+![Login funtion](https://github.com/user-attachments/assets/de9413c3-5593-4051-a6dc-c2addd5e3251)
+
+![Signup funtion](https://github.com/user-attachments/assets/86bf7e5b-9598-4852-9a3a-55009627f672)
+
+![OTP funtion](https://github.com/user-attachments/assets/a2ae507f-996c-41ea-92b0-2c411cc41bb1)
+
+![Profile + Categories](https://github.com/user-attachments/assets/b73b0c6c-6e6d-4d1c-a8f3-87f3661ba1fe)
+
+![Product](https://github.com/user-attachments/assets/f8ba3338-65af-4a83-a7c9-6e10db96b7f1)
+
+---
+### Appreciation  
 Chúng em xin gửi lời cảm ơn đến tất cả những sự hỗ trợ trong suốt quá trình học vừa qua.  
 Dù dự án có thể còn tồn tại những thiếu sót, nhưng sự động viên và tận tâm đồng hành của thầy  
 chính là nguồn động lực để chúng em nỗ lực hơn nữa. 
