@@ -7,26 +7,33 @@
 
 ---
 
-### Backend Repository → **[KiemTraLTDD](https://github.com/iamstorm0530/KiemTraLTDD)**
-
+### Backend Repository: **[KiemTraLTDD](https://github.com/iamstorm0530/KiemTraLTDD)**
 ---
 
 ### API Demo
 Login/Register: **[User API](https://69293c119d311ccdf348a65b.mockapi.io/user)**
+
 Product: **[Product API](https://69293c119d311ccdf348a65b.mockapi.io/product)**
+
 Categories: **[Categories API](http://app.iotstar.vn:8081/appfoods/categories.php)**
 
 ---
+#### Intro
 ![Intro](https://github.com/user-attachments/assets/d789f655-3151-450a-828b-5b20d315f799)
 
+#### Login
 ![Login funtion](https://github.com/user-attachments/assets/de9413c3-5593-4051-a6dc-c2addd5e3251)
 
+#### Signup
 ![Signup funtion](https://github.com/user-attachments/assets/86bf7e5b-9598-4852-9a3a-55009627f672)
 
+#### OTP
 ![OTP funtion](https://github.com/user-attachments/assets/a2ae507f-996c-41ea-92b0-2c411cc41bb1)
 
+#### Profile + Categories
 ![Profile + Categories](https://github.com/user-attachments/assets/b73b0c6c-6e6d-4d1c-a8f3-87f3661ba1fe)
 
+#### Product
 ![Product](https://github.com/user-attachments/assets/f8ba3338-65af-4a83-a7c9-6e10db96b7f1)
 
 ---
