@@ -76,7 +76,8 @@ public class LoginActivity extends AppCompatActivity {
                         editor.putBoolean("IS_LOGGED_IN", true);
                         editor.putLong("LOGIN_TIME", System.currentTimeMillis());
                         editor.putString("USER_ID", u.getId());
-                        editor.putString("USERNAME", u.getUsername());  // 👉 TÊN SẼ HIỆN Ở MAIN
+                        editor.putString("USERNAME", u.getUsername());
+                        editor.putString("NAME", u.getName());
                         editor.putString("EMAIL", u.getEmail());
                         editor.putString("AVATAR", u.getAvatar());
                         editor.apply();
