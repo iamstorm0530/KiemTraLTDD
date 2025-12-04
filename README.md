@@ -15,7 +15,7 @@ Login/Register: **[User API](https://69293c119d311ccdf348a65b.mockapi.io/user)**
 
 Product: **[Product API](https://69293c119d311ccdf348a65b.mockapi.io/product)**
 
-Categories: **[Categories API](http://app.iotstar.vn:8081/appfoods/categories.php)**
+Categories: **[Categories API](https://69294ff79d311cddf348fce7.mockapi.io/category)**
 
 ---
 #### Intro
