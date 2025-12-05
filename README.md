@@ -1,4 +1,4 @@
-![z7295075863962_74169e8352647e6557808264e3128b34](https://github.com/user-attachments/assets/8722928d-d097-4251-b49d-4da551184768)# Midterm Project
+# Midterm Project
 
 ## Project Description
 
