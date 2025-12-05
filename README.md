@@ -1,4 +1,4 @@
-# Midterm Project
+![z7295075863962_74169e8352647e6557808264e3128b34](https://github.com/user-attachments/assets/8722928d-d097-4251-b49d-4da551184768)# Midterm Project
 
 ## Project Description
 
@@ -34,7 +34,8 @@ Categories: **[Categories API](https://69294ff79d311cddf348fce7.mockapi.io/categ
 ![Profile + Categories](https://github.com/user-attachments/assets/b73b0c6c-6e6d-4d1c-a8f3-87f3661ba1fe)
 
 #### Product
-![Product](https://github.com/user-attachments/assets/f8ba3338-65af-4a83-a7c9-6e10db96b7f1)
+![Product](https://github.com/user-attachments/assets/ad02e433-7717-45b2-b72c-1b630f794b4c)
+
 
 ---
 ### Appreciation  
